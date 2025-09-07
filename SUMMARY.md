@@ -1,8 +1,8 @@
-# 目录
+# Table of contents
 
 * [首页](README.md)
 * [玩家版](player/00-overview.md)
-  * [Day1–Day3 上手](player/01-getting-started.md)
+  * [开始上手](player/01-getting-started.md)
   * [挂机 & 宝箱](player/02-idle-and-chest.md)
   * [探索秘境](player/03-explore.md)
   * [神祇质押挖矿](player/04-deity-staking.md)
