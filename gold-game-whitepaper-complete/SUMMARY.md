@@ -1,0 +1,18 @@
+# 目录
+
+* [首页 / 一页速览](README.md)
+* [玩家版](player/00-overview.md)
+  * [开始上手（Day1–Day3）](player/01-getting-started.md)
+  * [挂机 & 宝箱](player/02-idle-and-chest.md)
+  * [探索秘境](player/03-explore.md)
+  * [神祇（质押挖矿）](player/04-deity-staking.md)
+  * [宝石 & 上限](player/05-gems-and-limits.md)
+  * [市场与交易指引](player/06-market-guide.md)
+  * [FAQ / 术语](player/07-faq.md)
+* [商务版](business/00-economy-overview.md)
+  * [经济闭环总览](business/01-loop.md)
+  * [概率与上限机制](business/02-rng.md)
+  * [市场 & 手续费设计](business/03-market.md)
+  * [经济调控目标](business/04-econ-control.md)
+  * [合规与声明](business/05-compliance.md)
+  * [数据与月报机制](business/06-reports.md)
